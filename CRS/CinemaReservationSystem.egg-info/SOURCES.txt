@@ -1,0 +1,10 @@
+README.txt
+CinemaReservationSystem.egg-info/PKG-INFO
+CinemaReservationSystem.egg-info/SOURCES.txt
+CinemaReservationSystem.egg-info/dependency_links.txt
+CinemaReservationSystem.egg-info/top_level.txt
+crs/TEST.py
+crs/db_manager.py
+crs/make_db.py
+crs/make_hall.py
+crs/settings.py
