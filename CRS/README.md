@@ -4,6 +4,8 @@
 ## In order to run it:
 
     1. git clone the repository
-    2. pip install -e CRS
-    3. python process.py
-    4. Enjoy!
+    2. create virtual env.
+    3. install py.test
+    4. pip install -e CRS
+    5. python process.py
+    6. Enjoy!
