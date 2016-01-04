@@ -1,0 +1,7 @@
+something_heavy was called and took 2.00 seconds to complete
+something_heavy was called and took 2.10 seconds to complete
+something_heavy was called and took 2.10 seconds to complete
+something_heavy was called and took 2.10 seconds to complete
+countdown was called and took 0.08 seconds to complete
+something_heavy was called and took 2.10 seconds to complete
+countdown was called and took 0.41 seconds to complete

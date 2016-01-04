@@ -1,0 +1,1075 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dec",
+				"decorator1"
+			],
+			[
+				"ty",
+				"typeassert	function"
+			],
+			[
+				"is",
+				"isinstance	function"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"kw",
+				"ty_kwargs"
+			],
+			[
+				"enc",
+				"encrypt2	function"
+			],
+			[
+				"en",
+				"encrypt2	function"
+			],
+			[
+				"de",
+				"decorator2	function"
+			],
+			[
+				"perf",
+				"performance_log"
+			],
+			[
+				"w",
+				"writelines	function"
+			],
+			[
+				"func",
+				"functools	module"
+			],
+			[
+				"re",
+				"register	function"
+			],
+			[
+				"reg",
+				"registry	statement"
+			],
+			[
+				"regis",
+				"registry	statement"
+			],
+			[
+				"tiem",
+				"timeit	function"
+			],
+			[
+				"time",
+				"timeit	module"
+			],
+			[
+				"fun",
+				"functools	module"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"proo",
+				"promo_func	param"
+			],
+			[
+				"promo",
+				"promo_func	param"
+			],
+			[
+				"order",
+				"order_funcs	module"
+			],
+			[
+				"ab",
+				"abstractmethod	function"
+			],
+			[
+				"Orde",
+				"OrderedDict	class"
+			],
+			[
+				"Logg",
+				"LoggingOD	class"
+			],
+			[
+				"Log",
+				"LoggingOD	class"
+			],
+			[
+				"att",
+				"attr_str	statement"
+			],
+			[
+				"at",
+				"attr_str	statement"
+			],
+			[
+				"upp",
+				"upper_case_name"
+			],
+			[
+				"unico",
+				"unicodedata	module"
+			],
+			[
+				"re_nu",
+				"re_numbers_bytes"
+			],
+			[
+				"text",
+				"text_str	statement"
+			],
+			[
+				"te",
+				"text_str	statement"
+			],
+			[
+				"sor",
+				"sorted_fruits	statement"
+			],
+			[
+				"sha",
+				"shave_marks_latin	function"
+			],
+			[
+				"unic",
+				"unicodedata	module"
+			],
+			[
+				"norm",
+				"norm_txt	statement"
+			],
+			[
+				"by",
+				"bytes	class"
+			],
+			[
+				"S",
+				"SAMPLE_LEN	statement"
+			],
+			[
+				"rand",
+				"random	statement"
+			],
+			[
+				"read",
+				"readlines	function"
+			],
+			[
+				"proc",
+				"process_comands	function"
+			],
+			[
+				"pr",
+				"projection_id	statement"
+			],
+			[
+				"proje",
+				"projection_id"
+			],
+			[
+				"reser",
+				"reservation_info"
+			],
+			[
+				"show",
+				"show_movie_projections"
+			],
+			[
+				"Re",
+				"ReservationProcess	class"
+			],
+			[
+				"show_",
+				"show_movies"
+			],
+			[
+				"ins",
+				"test_insufficient_spots_for_tickets"
+			],
+			[
+				"show_mo",
+				"show_movie_proj_by_id"
+			],
+			[
+				"movi",
+				"movie_name	statement"
+			],
+			[
+				"rese",
+				"reservation_info	statement"
+			],
+			[
+				"projec",
+				"projection_details"
+			],
+			[
+				"rs",
+				"reservation_info	statement"
+			],
+			[
+				"proj",
+				"projections	statement"
+			],
+			[
+				"row",
+				"rowcount	instance"
+			],
+			[
+				"sho",
+				"show_reserved_seats	function"
+			],
+			[
+				"take",
+				"take_seat	function"
+			],
+			[
+				"pro",
+				"projections	statement"
+			],
+			[
+				"for",
+				"format	function"
+			],
+			[
+				"sli",
+				"sqlite3	module"
+			],
+			[
+				"_",
+				"_noletters_validizer"
+			],
+			[
+				"In",
+				"InteractiveSystem	class"
+			],
+			[
+				"movie",
+				"movie_id	param"
+			],
+			[
+				"mov",
+				"movie_id	param"
+			],
+			[
+				"mo",
+				"movie_projections_with_date	statement"
+			],
+			[
+				"D",
+				"DB_TEST_LOCATION	import"
+			],
+			[
+				"dis",
+				"distutils	module"
+			],
+			[
+				"ST",
+				"StopIteration	class"
+			],
+			[
+				"sq",
+				"SQL_COMMANDS	statement"
+			],
+			[
+				"bin",
+				"binsqrt	function"
+			],
+			[
+				"ex",
+				"executescript	function"
+			],
+			[
+				"Ke",
+				"KeyError	class"
+			],
+			[
+				"pass",
+				"passengers	param"
+			],
+			[
+				"cal",
+				"calc_position	function"
+			],
+			[
+				"zi",
+				"zipped_changers	statement"
+			],
+			[
+				"ra",
+				"randrange	statement"
+			],
+			[
+				"floa",
+				"floats2	statement"
+			],
+			[
+				"bi",
+				"bisect_left	function"
+			],
+			[
+				"bise",
+				"bisect	module"
+			],
+			[
+				"bisect_",
+				"bisect_fn"
+			],
+			[
+				"ca",
+				"candidates	statement"
+			],
+			[
+				"ma",
+				"max_jumps	statement"
+			],
+			[
+				"insta",
+				"installed_modules	statement"
+			],
+			[
+				"instal",
+				"installed_modules"
+			],
+			[
+				"res",
+				"resolve_dependency	function"
+			],
+			[
+				"no",
+				"not_installed	statement"
+			],
+			[
+				"json",
+				"jsonize_input	function"
+			],
+			[
+				"fo",
+				"format	function"
+			],
+			[
+				"co",
+				"combine_ind_changers	function"
+			],
+			[
+				"ind",
+				"ind_changers	statement"
+			],
+			[
+				"cha",
+				"combine_ind_changers	function"
+			],
+			[
+				"curr",
+				"curr_y	statement"
+			],
+			[
+				"max",
+				"max_area	statement"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"com",
+				"combine_characters"
+			],
+			[
+				"sup",
+				"subprocess	module"
+			],
+			[
+				"host",
+				"host_ip	statement"
+			],
+			[
+				"gethost",
+				"gethostbyname	function"
+			],
+			[
+				"Sock_S",
+				"SOCK_STREAM	instance"
+			],
+			[
+				"dir",
+				"dir_contents	statement"
+			],
+			[
+				"temp",
+				"temp_dir	param"
+			],
+			[
+				"tem",
+				"temp_dir	param"
+			],
+			[
+				"sta",
+				"stats_list	module"
+			],
+			[
+				"assertno",
+				"assertNotEquals	statement"
+			],
+			[
+				"asse",
+				"assertEqual	function"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"J",
+				"JSONEncoder	class"
+			],
+			[
+				"thread",
+				"threading	module"
+			],
+			[
+				"pi",
+				"pickle	module"
+			],
+			[
+				"hea",
+				"heapify	function"
+			],
+			[
+				"lis",
+				"list_of_operations	param"
+			],
+			[
+				"Htt",
+				"HTTPDigestAuth	class"
+			],
+			[
+				"HTT",
+				"HTTPDigestAuth	class"
+			],
+			[
+				"as",
+				"ascii_letters	statement"
+			],
+			[
+				"he",
+				"heapify_partly	function"
+			],
+			[
+				"K",
+				"K_lists	class"
+			],
+			[
+				"pop",
+				"pop_and_replace	function"
+			],
+			[
+				"list",
+				"list_of_arrays	statement"
+			],
+			[
+				"Inde",
+				"IndexError	class"
+			],
+			[
+				"sorted",
+				"sorted_list	statement"
+			],
+			[
+				"sorte",
+				"sorted_list	statement"
+			],
+			[
+				"a",
+				"add_next	function"
+			],
+			[
+				"NO",
+				"Node	class"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"sele",
+				"selected_choice	statement"
+			],
+			[
+				"get_",
+				"get_object_or_404	import"
+			],
+			[
+				"inte",
+				"interest	forstmt"
+			],
+			[
+				"Eve",
+				"EventInterest	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "performance_deco.py",
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "performance_log.txt",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "decorator_practice.py",
+			"settings":
+			{
+				"buffer_size": 3009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ivelin/.config/sublime-text-3/Packages/Anaconda/README.md",
+			"settings":
+			{
+				"buffer_size": 4701,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/log.txt",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/log_deco.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/encrypt_deco.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/hack_bg_decos.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/clock_parametrized.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/register_dec_parametrized.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/optimized_fibonacci.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/decos.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/scope.py",
+		"/home/ivelin/Python/FluentPythonTasks/Decoratos/intro.py",
+		"/home/ivelin/Python/FluentPythonTasks/Design Patterns/order_funcs.py",
+		"/home/ivelin/Python/FluentPythonTasks/Design Patterns/strategy_dec.py",
+		"/home/ivelin/Python/FluentPythonTasks/Design Patterns/strategy_pythonic.py",
+		"/home/ivelin/Python/FluentPythonTasks/Design Patterns/strategy_not_pythonic.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/functional_python.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/exceptions.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/rfind.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/bobooo.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/tag.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/test.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/func_attrs.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/bingo_cage.py",
+		"/home/ivelin/Python/FluentPythonTasks/First-Class-Functions/fcf.py",
+		"/home/ivelin/Python/FluentPythonTasks/Messing_around/unicode_database_functions.py",
+		"/home/ivelin/Python/FluentPythonTasks/Messing_around/pyuca_sorting.py",
+		"/home/ivelin/Python/FluentPythonTasks/Messing_around/challenge.py",
+		"/home/ivelin/Python/FluentPythonTasks/Messing_around/dict_ordering.py",
+		"/home/ivelin/Python/FluentPythonTasks/generate_10M_floats_arr.py",
+		"/home/ivelin/Python/FluentPythonTasks/memory_view.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/process.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/system.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/setup.py",
+		"/home/ivelin/Python/OOP Book/Testing/vigenere_cipher.py",
+		"/home/ivelin/Python/OOP Book/Testing/client_setup.py",
+		"/home/ivelin/Python/OOP Book/Testing/socket_setup.py",
+		"/home/ivelin/Python/OOP Book/Testing/py_test_skipping.py",
+		"/home/ivelin/Python/OOP Book/Testing/echo_server.py",
+		"/home/ivelin/Python/OOP Book/Testing/cached_setup.py",
+		"/home/ivelin/Python/OOP Book/Testing/pytest_funcargs.py",
+		"/home/ivelin/Python/OOP Book/Testing/testing_pytest.py",
+		"/home/ivelin/Python/OOP Book/Testing/decorated_test.py",
+		"/home/ivelin/Python/OOP Book/Testing/test_stats_list.py",
+		"/home/ivelin/Python/OOP Book/Testing/stats_list.py",
+		"/home/ivelin/Python/OOP Book/Testing/unit_tests.py",
+		"/home/ivelin/Python/Test/test.html",
+		"/home/ivelin/Python/week3/RMQ.py",
+		"/home/ivelin/Python/DJANGO/first/first/settings.py",
+		"/home/ivelin/Python/DJANGO/first/first/urls.py",
+		"/home/ivelin/Python/DJANGO/first/first_site/templates/first_site/index.html",
+		"/home/ivelin/Python/DJANGO/first/first_site/urls.py",
+		"/home/ivelin/Python/DJANGO/first/first_site/views.py",
+		"/home/ivelin/Python/DJANGO/first/first_site/models.py",
+		"/home/ivelin/Python/OOP Book/Strings and Files/json_extended.py",
+		"/home/ivelin/Python/OOP Book/Strings and Files/pickling.py",
+		"/home/ivelin/Python/OOP Book/Strings and Files/enter_exit_with_statement.py",
+		"/home/ivelin/Python/OOP Book/Strings and Files/bytes_to_text.py",
+		"/home/ivelin/Python/Hacktogether Strypes/get_events_crawler.py",
+		"/home/ivelin/Python/Test/test.py",
+		"/home/ivelin/Python/FluentPythonTasks/Design Patterns/order_funcs.pt",
+		"/home/ivelin/Python/FluentPythonTasks/cafe.txt",
+		"/home/ivelin/Random-Code/CRS/README.md",
+		"/home/ivelin/Python/OOP Book/Testing/vigenere_cipher_test.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/test/test_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/test/test_system.py",
+		"/home/ivelin/Python/FluentPythonTasks/set_in_timed.py",
+		"/home/ivelin/Python/FluentPythonTasks/timeit_test.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/test/test_manager.py",
+		"/home/ivelin/Python/FluentPythonTasks/test_image_processing.py",
+		"/home/ivelin/Python/FluentPythonTasks/floats-10M.npy",
+		"/home/ivelin/Python/FluentPythonTasks/10M_floats.txt",
+		"/home/ivelin/Random-Code/CRS/README.txt",
+		"/home/ivelin/Python/Course-Algo1/final/largest_area(19.10.2014).py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/points.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/word_game.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/word_game_not_hardcoded.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/dependency_resolving.py",
+		"/home/ivelin/Python/FluentPythonTasks/card_deck.py",
+		"/home/ivelin/Python/FluentPythonTasks/Vector.py",
+		"/home/ivelin/Python/FluentPythonTasks/jumping_soldiers.py",
+		"/home/ivelin/Python/FluentPythonTasks/bisect_example.py",
+		"/home/ivelin/Python/FluentPythonTasks/numpy_training.py",
+		"/home/ivelin/Python/FluentPythonTasks/test.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/test/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/test/conftest.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/movie_database.db",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/shhhhhhhhhhh.py",
+		"/home/ivelin/Python/OOP Book/email_sender/sender.py",
+		"/home/ivelin/Python/OOP Book/zip_app_composition/zip_scale.py",
+		"/home/ivelin/Python/OOP Book/zip_app_composition/zip_process.py",
+		"/home/ivelin/Python/OOP Book/zip_app_basic/zipsearch.py",
+		"/home/ivelin/Python/OOP Book/link_collector/link_col.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/test/movie_database.db",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/test/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/TESTS/__init__.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/TESTS/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/__init__.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/__main__.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TEST.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TESTS/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TESTS.py/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TESTS/__init__.py",
+		"/home/ivelin/Python/FluentPythonTasks/ivan.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/all_packages.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"give_up_reservation",
+			"check_id_validity",
+			"show_movie_proj_by",
+			"index // 2 - 1",
+			"[0]",
+			"self.heap_array",
+			"/",
+			"event['data']",
+			"urllib3.urlopen",
+			"urllib3.HTTPError",
+			"httplib",
+			"urllib2",
+			", e",
+			"urllib2",
+			"except e",
+			"urllib2.HTTPError,",
+			"BASE_",
+			"lang",
+			"pdf",
+			"exec",
+			"check_host",
+			"disable_ssl_cer",
+			"disable_",
+			"check_",
+			"'",
+			"\"",
+			"'",
+			"num_bathrooms",
+			"num_bedrooms",
+			"Fals",
+			"candidate",
+			"input",
+			"start_others",
+			"self.columns",
+			"self.rows",
+			"self.map",
+			"proceed",
+			"urllib2",
+			"el",
+			"/",
+			"lazy",
+			"/",
+			"size",
+			"count",
+			"table",
+			"construct_graph",
+			"order2",
+			"OBstacle",
+			"javascript",
+			"mimetype",
+			"ajax",
+			"urllib",
+			"suspeneded",
+			"unblock",
+			"sql_manager",
+			"register",
+			"regis",
+			"regisrer",
+			":10",
+			"s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"give_up_reservation_prompt",
+			"(index - 1) // 2",
+			"",
+			"arr",
+			"//",
+			"event",
+			"urllib3.PoolManager().urlopen",
+			"urllib3.exceptions.HTTPError",
+			"httplib2",
+			"urllib3",
+			"urllib",
+			"self.pdf",
+			"\"",
+			"'",
+			"\"",
+			"baths",
+			"beds",
+			"tree",
+			"raw_input",
+			"conn",
+			"columns",
+			"rows",
+			"map",
+			"p",
+			"urllib",
+			"//",
+			"self.size",
+			"self.count",
+			"self.index",
+			"json",
+			"content_type",
+			"suspended",
+			"self.manager"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "performance_deco.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								809,
+								809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "performance_log.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "decorator_practice.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/ivelin/.config/sublime-text-3/Packages/Anaconda/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "decors.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Python/Course-Algo1/final/building.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

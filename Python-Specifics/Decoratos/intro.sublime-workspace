@@ -1,0 +1,906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"order",
+				"order_funcs	module"
+			],
+			[
+				"ab",
+				"abstractmethod	function"
+			],
+			[
+				"Orde",
+				"OrderedDict	class"
+			],
+			[
+				"Logg",
+				"LoggingOD	class"
+			],
+			[
+				"Log",
+				"LoggingOD	class"
+			],
+			[
+				"att",
+				"attr_str	statement"
+			],
+			[
+				"at",
+				"attr_str	statement"
+			],
+			[
+				"upp",
+				"upper_case_name"
+			],
+			[
+				"unico",
+				"unicodedata	module"
+			],
+			[
+				"re_nu",
+				"re_numbers_bytes"
+			],
+			[
+				"text",
+				"text_str	statement"
+			],
+			[
+				"te",
+				"text_str	statement"
+			],
+			[
+				"sor",
+				"sorted_fruits	statement"
+			],
+			[
+				"sha",
+				"shave_marks_latin	function"
+			],
+			[
+				"unic",
+				"unicodedata	module"
+			],
+			[
+				"norm",
+				"norm_txt	statement"
+			],
+			[
+				"by",
+				"bytes	class"
+			],
+			[
+				"dec",
+				"decrypted	statement"
+			],
+			[
+				"S",
+				"SAMPLE_LEN	statement"
+			],
+			[
+				"rand",
+				"random	statement"
+			],
+			[
+				"read",
+				"readlines	function"
+			],
+			[
+				"proc",
+				"process_comands	function"
+			],
+			[
+				"pr",
+				"projection_id	statement"
+			],
+			[
+				"proje",
+				"projection_id"
+			],
+			[
+				"reser",
+				"reservation_info"
+			],
+			[
+				"show",
+				"show_movie_projections"
+			],
+			[
+				"Re",
+				"ReservationProcess	class"
+			],
+			[
+				"show_",
+				"show_movies"
+			],
+			[
+				"ins",
+				"test_insufficient_spots_for_tickets"
+			],
+			[
+				"is",
+				"is	keyword"
+			],
+			[
+				"show_mo",
+				"show_movie_proj_by_id"
+			],
+			[
+				"movi",
+				"movie_name	statement"
+			],
+			[
+				"rese",
+				"reservation_info	statement"
+			],
+			[
+				"projec",
+				"projection_details"
+			],
+			[
+				"re",
+				"reservation_info	statement"
+			],
+			[
+				"rs",
+				"reservation_info	statement"
+			],
+			[
+				"proj",
+				"projections	statement"
+			],
+			[
+				"row",
+				"rowcount	instance"
+			],
+			[
+				"sho",
+				"show_reserved_seats	function"
+			],
+			[
+				"take",
+				"take_seat	function"
+			],
+			[
+				"pro",
+				"projections	statement"
+			],
+			[
+				"for",
+				"format	function"
+			],
+			[
+				"sli",
+				"sqlite3	module"
+			],
+			[
+				"_",
+				"_noletters_validizer"
+			],
+			[
+				"In",
+				"InteractiveSystem	class"
+			],
+			[
+				"movie",
+				"movie_id	param"
+			],
+			[
+				"mov",
+				"movie_id	param"
+			],
+			[
+				"mo",
+				"movie_projections_with_date	statement"
+			],
+			[
+				"D",
+				"DB_TEST_LOCATION	import"
+			],
+			[
+				"dis",
+				"distutils	module"
+			],
+			[
+				"ST",
+				"StopIteration	class"
+			],
+			[
+				"sq",
+				"SQL_COMMANDS	statement"
+			],
+			[
+				"bin",
+				"binsqrt	function"
+			],
+			[
+				"ex",
+				"executescript	function"
+			],
+			[
+				"Ke",
+				"KeyError	class"
+			],
+			[
+				"pass",
+				"passengers	param"
+			],
+			[
+				"cal",
+				"calc_position	function"
+			],
+			[
+				"zi",
+				"zipped_changers	statement"
+			],
+			[
+				"ra",
+				"randrange	statement"
+			],
+			[
+				"floa",
+				"floats2	statement"
+			],
+			[
+				"bi",
+				"bisect_left	function"
+			],
+			[
+				"bise",
+				"bisect	module"
+			],
+			[
+				"bisect_",
+				"bisect_fn"
+			],
+			[
+				"ca",
+				"candidates	statement"
+			],
+			[
+				"ma",
+				"max_jumps	statement"
+			],
+			[
+				"insta",
+				"installed_modules	statement"
+			],
+			[
+				"instal",
+				"installed_modules"
+			],
+			[
+				"res",
+				"resolve_dependency	function"
+			],
+			[
+				"no",
+				"not_installed	statement"
+			],
+			[
+				"json",
+				"jsonize_input	function"
+			],
+			[
+				"fo",
+				"format	function"
+			],
+			[
+				"co",
+				"combine_ind_changers	function"
+			],
+			[
+				"ind",
+				"ind_changers	statement"
+			],
+			[
+				"cha",
+				"combine_ind_changers	function"
+			],
+			[
+				"curr",
+				"curr_y	statement"
+			],
+			[
+				"max",
+				"max_area	statement"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"com",
+				"combine_characters"
+			],
+			[
+				"sup",
+				"subprocess	module"
+			],
+			[
+				"host",
+				"host_ip	statement"
+			],
+			[
+				"gethost",
+				"gethostbyname	function"
+			],
+			[
+				"Sock_S",
+				"SOCK_STREAM	instance"
+			],
+			[
+				"dir",
+				"dir_contents	statement"
+			],
+			[
+				"temp",
+				"temp_dir	param"
+			],
+			[
+				"tem",
+				"temp_dir	param"
+			],
+			[
+				"sta",
+				"stats_list	module"
+			],
+			[
+				"assertno",
+				"assertNotEquals	statement"
+			],
+			[
+				"asse",
+				"assertEqual	function"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"J",
+				"JSONEncoder	class"
+			],
+			[
+				"thread",
+				"threading	module"
+			],
+			[
+				"pi",
+				"pickle	module"
+			],
+			[
+				"hea",
+				"heapify	function"
+			],
+			[
+				"lis",
+				"list_of_operations	param"
+			],
+			[
+				"Htt",
+				"HTTPDigestAuth	class"
+			],
+			[
+				"HTT",
+				"HTTPDigestAuth	class"
+			],
+			[
+				"as",
+				"ascii_letters	statement"
+			],
+			[
+				"he",
+				"heapify_partly	function"
+			],
+			[
+				"K",
+				"K_lists	class"
+			],
+			[
+				"pop",
+				"pop_and_replace	function"
+			],
+			[
+				"list",
+				"list_of_arrays	statement"
+			],
+			[
+				"Inde",
+				"IndexError	class"
+			],
+			[
+				"sorted",
+				"sorted_list	statement"
+			],
+			[
+				"sorte",
+				"sorted_list	statement"
+			],
+			[
+				"a",
+				"add_next	function"
+			],
+			[
+				"NO",
+				"Node	class"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"sele",
+				"selected_choice	statement"
+			],
+			[
+				"get_",
+				"get_object_or_404	import"
+			],
+			[
+				"inte",
+				"interest	forstmt"
+			],
+			[
+				"Eve",
+				"EventInterest	class"
+			],
+			[
+				"intere",
+				"interest_name	statement"
+			],
+			[
+				"end",
+				"end_time"
+			],
+			[
+				"star",
+				"start_time"
+			],
+			[
+				"eve",
+				"events_list	statement"
+			],
+			[
+				"even",
+				"events_list	statement"
+			],
+			[
+				"nex",
+				"next_page	statement"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"ques",
+				"question_id	param"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"H",
+				"HttpResponse	import"
+			],
+			[
+				"Ch",
+				"ChoiceInline	class"
+			],
+			[
+				"Questi",
+				"QuestionAdmin	class"
+			],
+			[
+				"con",
+				"convert_pdf_to_imgs	function"
+			],
+			[
+				"P",
+				"PdfFileReader"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"abs",
+				"abstract_factory_pattern	module"
+			],
+			[
+				"FR",
+				"FranceFormatterFactory	class"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ivelin/Python/FluentPythonTasks/Design Patterns/order_funcs.pt",
+		"/home/ivelin/Python/FluentPythonTasks/cafe.txt",
+		"/home/ivelin/Random-Code/CRS/README.md",
+		"/home/ivelin/Python/OOP Book/Testing/vigenere_cipher_test.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/test/test_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/test/test_system.py",
+		"/home/ivelin/Python/FluentPythonTasks/set_in_timed.py",
+		"/home/ivelin/Python/FluentPythonTasks/timeit_test.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/test/test_manager.py",
+		"/home/ivelin/Python/FluentPythonTasks/test_image_processing.py",
+		"/home/ivelin/Python/FluentPythonTasks/floats-10M.npy",
+		"/home/ivelin/Python/FluentPythonTasks/10M_floats.txt",
+		"/home/ivelin/Random-Code/CRS/README.txt",
+		"/home/ivelin/Python/Course-Algo1/final/largest_area(19.10.2014).py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/points.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/word_game.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/word_game_not_hardcoded.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/dependency_resolving.py",
+		"/home/ivelin/Python/FluentPythonTasks/card_deck.py",
+		"/home/ivelin/Python/FluentPythonTasks/Vector.py",
+		"/home/ivelin/Python/FluentPythonTasks/jumping_soldiers.py",
+		"/home/ivelin/Python/FluentPythonTasks/bisect_example.py",
+		"/home/ivelin/Python/FluentPythonTasks/numpy_training.py",
+		"/home/ivelin/Python/FluentPythonTasks/test.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/crs/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/test/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/test/conftest.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/movie_database.db",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/shhhhhhhhhhh.py",
+		"/home/ivelin/Python/OOP Book/email_sender/sender.py",
+		"/home/ivelin/Python/OOP Book/zip_app_composition/zip_scale.py",
+		"/home/ivelin/Python/OOP Book/zip_app_composition/zip_process.py",
+		"/home/ivelin/Python/OOP Book/zip_app_basic/zipsearch.py",
+		"/home/ivelin/Python/OOP Book/link_collector/link_col.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/CRS/test/movie_database.db",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/test/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/TESTS/__init__.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/TESTS/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/__init__.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/__main__.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/CRS/Entity/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/make_hall.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/db_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/make_db.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/settings.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/fill_db.sql",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TEST.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TESTS/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TESTS.py/test_manager.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Cinema Reservation System/TESTS/__init__.py",
+		"/home/ivelin/Python/FluentPythonTasks/ivan.py",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/all_packages.json",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/dependencies.json",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/installed_modules/queryJ",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/installed_modules/underscore",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/installed_modules/jQuery",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/installed_modules/backbone",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/gluposti.json",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/gluposti.txt",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/gluposti",
+		"/home/ivelin/Python/HackBulgaria 2015 Fall Application tasks/installed_modules/lodash",
+		"/home/ivelin/Python/OOP Book/Testing/test_stats_list.py,cover",
+		"/home/ivelin/Python/Test/k-min.py",
+		"/home/ivelin/Python/Course-Algo1/week2/K-lists_with_heap.py",
+		"/home/ivelin/Python/Course-Algo1/week2/K.py",
+		"/home/ivelin/Python/Course-Algo1/week2/K-lists.py",
+		"/home/ivelin/Python/Hacktogether Strypes/test2.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/templates/polls/detail.html",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/templates/polls/index.html",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/templates/polls/results.html",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/views.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/admin.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/urls.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/models.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/mysite/urls.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/polls/tests.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/mysite/settings.py",
+		"/home/ivelin/Python/DJANGO/first/first_site/templates/first_site/open",
+		"/home/ivelin/Python/OOP Book/Strings and Files/non_book.py",
+		"/home/ivelin/Python/OOP Book/Strings and Files/manipulating_string.py",
+		"/home/ivelin/Python/Course-Algo1/week2/K-pesho.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Instagram/followers.py",
+		"/home/ivelin/Python/PRACTICE PROJECTS/Instagram/manager.py",
+		"/home/ivelin/Python/Recommendation-Matching-System/mysystem/mysystem/urls.py",
+		"/home/ivelin/Python/Recommendation-Matching-System/mysystem/website/templates/register.html",
+		"/home/ivelin/Python/Recommendation-Matching-System/mysystem/mysystem/settings.py",
+		"/home/ivelin/Python/Recommendation-Matching-System/mysystem/website/urls.py",
+		"/home/ivelin/Python/Recommendation-Matching-System/mysystem/website/views.py",
+		"/home/ivelin/Python/Recommendation-Matching-System/mysystem/website/models.py",
+		"/home/ivelin/Python/Hacktogether Strypes/Events.txt",
+		"/home/ivelin/Python/Hacktogether Strypes/Events",
+		"/home/ivelin/Python/Course-Algo1/week4/valid_directories.py",
+		"/usr/local/lib/python3.4/dist-packages/facebook.py",
+		"/home/ivelin/Python/findSpot/lib/python3.4/site-packages/facebook.py",
+		"/home/ivelin/Python/Hacktogether Strypes/Facebook API/test.py",
+		"/home/ivelin/Python/Hacktogether Strypes/pdf_extraxt_text.py",
+		"/home/ivelin/Python/Hacktogether Strypes/test.py",
+		"/home/ivelin/Python/DJANGO/polls_app/mysite/templates/admin/base_site.html",
+		"/usr/local/lib/python3.4/dist-packages/pytesseract/pytesseract.py",
+		"/home/ivelin/Python/Hacktogether Strypes/amazon_extracted_text.txt",
+		"/home/ivelin/Algo-Solutions/week3/min_max_heap.py",
+		"/usr/local/lib/python3.4/dist-packages/tesseract/__init__.py",
+		"/usr/local/bin/pytesseract",
+		"/home/ivelin/Python/Hacktogether Strypes/kauflan_22.txt",
+		"/home/ivelin/Python/Hacktogether Strypes/kauflan_20.txt",
+		"/home/ivelin/Python/Hacktogether Strypes/kauflan_11.txt",
+		"/home/ivelin/.cache/.fr-c0Vg73/PythonMagick-0.9.12/INSTALL",
+		"/home/ivelin/Python/Hacktogether Strypes/amazon_test_1.txt",
+		"/home/ivelin/Python/Hacktogether Strypes/amazon_test_11.txt",
+		"/home/ivelin/Python/Hacktogether Strypes/pypdfocr/pypdfocr-0.8.2/setup.py",
+		"/home/ivelin/Python/OOP Book/patterns_II/abstract_factory_pattern/backends/USA.py",
+		"/home/ivelin/Python/OOP Book/patterns_II/abstract_factory_pattern/abstract_factory_pattern.py",
+		"/home/ivelin/Python/OOP Book/patterns_II/abstract_factory_pattern/__init__.py",
+		"/home/ivelin/Python/OOP Book/patterns_II/abstract_factory_pattern/backends/__init__.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"give_up_reservation",
+			"check_id_validity",
+			"show_movie_proj_by",
+			"index // 2 - 1",
+			"[0]",
+			"self.heap_array",
+			"/",
+			"event['data']",
+			"urllib3.urlopen",
+			"urllib3.HTTPError",
+			"httplib",
+			"urllib2",
+			", e",
+			"urllib2",
+			"except e",
+			"urllib2.HTTPError,",
+			"BASE_",
+			"lang",
+			"pdf",
+			"exec",
+			"check_host",
+			"disable_ssl_cer",
+			"disable_",
+			"check_",
+			"'",
+			"\"",
+			"'",
+			"num_bathrooms",
+			"num_bedrooms",
+			"Fals",
+			"candidate",
+			"input",
+			"start_others",
+			"self.columns",
+			"self.rows",
+			"self.map",
+			"proceed",
+			"urllib2",
+			"el",
+			"/",
+			"lazy",
+			"/",
+			"size",
+			"count",
+			"table",
+			"construct_graph",
+			"order2",
+			"OBstacle",
+			"javascript",
+			"mimetype",
+			"ajax",
+			"urllib",
+			"suspeneded",
+			"unblock",
+			"sql_manager",
+			"register",
+			"regis",
+			"regisrer",
+			":10",
+			"s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"give_up_reservation_prompt",
+			"(index - 1) // 2",
+			"",
+			"arr",
+			"//",
+			"event",
+			"urllib3.PoolManager().urlopen",
+			"urllib3.exceptions.HTTPError",
+			"httplib2",
+			"urllib3",
+			"urllib",
+			"self.pdf",
+			"\"",
+			"'",
+			"\"",
+			"baths",
+			"beds",
+			"tree",
+			"raw_input",
+			"conn",
+			"columns",
+			"rows",
+			"map",
+			"p",
+			"urllib",
+			"//",
+			"self.size",
+			"self.count",
+			"self.index",
+			"json",
+			"content_type",
+			"suspended",
+			"self.manager"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "intro.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Python/Course-Algo1/final/building.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
