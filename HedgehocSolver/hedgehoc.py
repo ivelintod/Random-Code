@@ -46,10 +46,8 @@ class Grid:
                                  orientation,
                                  self)
 
-    def __repr__(self):
-        for row in grid.grid:
-            print(row)
-        return super().__repr__()
+    def __str__(self):
+        return '\n'.join(str(row) for row in grid.grid)
 
     def populate_grid(self, badgers_coords=None, hedgehoc_coords=None, old_coords=None):
         if badgers_coords:
@@ -132,11 +130,13 @@ class Hedgehog:
             move_outcome = self.move(move_opt)
             if move_outcome:
                 route.append(self.position.get_coords())
+                self.escape_routes.append(str(self.grid))
                 route = self.escape(route)
                 if route[-1] == self.grid.SUCCESS_COORDS:
                     return route
                 self.move(self.OPPOSITES[move_opt], checks=False)
 
+        self.escape_routes = self.escape_routes[:-1]
         return route[:-1]
 
 
@@ -659,4 +659,10 @@ if __name__ == '__main__':
 
     grid = Grid(hedgehoc_coords, badgers_coords,
                 hedgehoc_state_class, orientation)
-    print(grid.hedgehoc.escape())
+
+    res = grid.hedgehoc.escape()
+
+    for row in grid.hedgehoc.escape_routes:
+        print(row)
+        print('\n')
+    print(res)
